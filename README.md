@@ -1,1 +1,2 @@
-# serengeti_web_data_prep
+# Snapshot Serengeti Data Prep
+These python files were used to extract and optimize data needed for each component of the [Snapshot Serengeti Dashboard](https://ocelots-rcn.github.io/serengeti_dashboard/js/).
